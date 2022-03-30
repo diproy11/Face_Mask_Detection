@@ -10,6 +10,6 @@ Then created another program for detecting the picture, Worked with multiple con
 
 # DataSets
 * Main Data: With_Mask, Without_mask Folder.
-* Train Data: Train_data Folder.
-* Test Data: Validation_data folder.
+* Train Data: Train Folder.
+* Test Data: Validation folder.
 * Result: Answer Folder.
